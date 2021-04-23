@@ -1,0 +1,38 @@
+{
+  "name": "Rabbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Zinnion LLC",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bn.js": "^5.1.3",
+    "cli-progress": "^3.9.0",
+    "colors": "^1.4.0",
+    "decimal.js": "^10.2.0",
+    "dotenv": "^8.2.0",
+    "ether-converter": "^0.0.13",
+    "ethereumjs-abi": "^0.6.8",
+    "ethereumjs-util": "^7.0.9",
+    "fastq": "^1.11.0",
+    "httpdispatcher": "^2.1.2",
+    "moment": "^2.29.1",
+    "net": "^1.0.2",
+    "node-schedule": "^2.0.0",
+    "redis": "^3.0.2",
+    "web3": "1.3.3",
+    "web3-eth-accounts": "1.3.4",
+    "zeromq": "5"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.0.0",
+    "@truffle/hdwallet-provider": "^1.0.36",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.0.4",
+    "truffle": "^5.1.32",
+    "truffle-plugin-verify": "^0.5.4"
+  }
+}
